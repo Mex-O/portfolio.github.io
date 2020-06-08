@@ -1,0 +1,131 @@
+html,body {
+    padding: 0%;
+    margin:0%;
+    overflow-x:hidden;
+    position:relative;
+  }
+#section1{
+    background:linear-gradient(navy 30%, blue 70%);
+    width:100%;
+}
+.rounded-circle{
+    width:150px;
+    height:140px;
+    margin-top:90px;
+}
+.dee{
+    font-family:'Courier New', Courier, monospace;
+}
+.btn-primary{
+    border-radius:30px;
+    background-color:white;
+    color:blue;
+}
+.btn-secondary{
+    border-radius:30px;
+    background-color:blue;
+}
+#de{
+    color:white;
+}
+.footer{
+    background: darkblue;
+    width:100%;
+}
+.img{
+    width:10%;
+    height:5%;
+}
+.ge{
+    color:white;
+    font-size:35px;
+    font-weight:bold;
+}
+.gr{
+    color:darkblue;
+    font-size:30px;
+    font-family:maiandra gd;
+    padding:20px;
+}
+.h2{
+    color:darkblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:30px;
+}
+.do{
+    color:darkblue;
+}
+.section2{
+    background:navy;
+    padding:30px;
+}
+.section3{
+    padding:20px;
+    margin:10px;
+}
+n,h,f,k{
+    font-size:30px;
+    color:darkcyan;
+}
+r{
+    font-size:15px;
+    color:turquoise;
+}
+m{
+    font-size:16px;
+    color:teal;
+}
+.section4{
+    background:navy;
+    padding:30px;
+    color:white;
+}
+h3{
+    color:white;
+    font-family:Lucida Sans;
+}
+.joe{
+    color:white;
+}
+.icon{
+    color:transparent;
+}
+.vl {
+    border-left: 1px solid white;
+    height: 5px;
+    padding:5px;
+  }
+#card{
+    border:none;
+    background:transparent;
+    margin:20px;
+}
+.r{
+    color:white;
+    font-size:20px;
+}
+
+.card-description{
+    color:white;
+}
+.section5{
+    padding:20px;
+}
+
+
+
+
+
+/*animation*/
+.ml12 {
+    font-weight: bold;
+    font-size: 1.3em;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    color:white;
+  }
+  
+  .ml12 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
